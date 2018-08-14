@@ -1,0 +1,5 @@
+C:/day-7-facial-landmark-detection/build/CMakeFiles/facialLandmarkDetector.dir
+C:/day-7-facial-landmark-detection/build/CMakeFiles/ALL_BUILD.dir
+C:/day-7-facial-landmark-detection/build/CMakeFiles/ZERO_CHECK.dir
+C:/day-7-facial-landmark-detection/build/dlib_build/CMakeFiles/dlib.dir
+C:/day-7-facial-landmark-detection/build/dlib_build/CMakeFiles/ALL_BUILD.dir

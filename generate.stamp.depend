@@ -1,0 +1,38 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/Platform/WindowsPaths.cmake
+C:/day-7-facial-landmark-detection/CMakeLists.txt
+C:/day-7-facial-landmark-detection/build/CMakeFiles/3.12.0-rc1/CMakeCCompiler.cmake
+C:/day-7-facial-landmark-detection/build/CMakeFiles/3.12.0-rc1/CMakeCXXCompiler.cmake
+C:/day-7-facial-landmark-detection/build/CMakeFiles/3.12.0-rc1/CMakeRCCompiler.cmake
+C:/day-7-facial-landmark-detection/build/CMakeFiles/3.12.0-rc1/CMakeSystem.cmake
+C:/day-7-facial-landmark-detection/dlib-19.7/dlib/cmake
+C:/day-7-facial-landmark-detection/dlib-19.7/dlib/cmake_utils/add_global_compiler_switch.cmake
+C:/day-7-facial-landmark-detection/dlib-19.7/dlib/cmake_utils/release_build_by_default
+C:/day-7-facial-landmark-detection/dlib-19.7/dlib/cmake_utils/use_cpp_11.cmake
+C:/opencv-3.4.1/build/install/OpenCVConfig-version.cmake
+C:/opencv-3.4.1/build/install/OpenCVConfig.cmake
+C:/opencv-3.4.1/build/install/x64/vc14/lib/OpenCVConfig.cmake
+C:/opencv-3.4.1/build/install/x64/vc14/lib/OpenCVModules-debug.cmake
+C:/opencv-3.4.1/build/install/x64/vc14/lib/OpenCVModules-release.cmake
+C:/opencv-3.4.1/build/install/x64/vc14/lib/OpenCVModules.cmake
